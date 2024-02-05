@@ -1,0 +1,1 @@
+Hi there 👋 and thank you for visiting [Jane](https://jane.app/). We are a dedicated bunch of professionals aimed at making life better for those who help out other people 💚. Chances are we are hiring, check out [this page](https://jane.app/hiring).
