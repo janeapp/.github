@@ -10,7 +10,7 @@ If you believe you have found a security vulnerability in any Jane-owned reposit
 
 **Please do not report security vulnerabilities through public Jane issues, discussions, or pull requests.**
 
-Instead, please send an email to [TBD]
+Instead, please send an email to security@jane.app.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
